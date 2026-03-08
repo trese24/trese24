@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I’m currently learning **Web Development, Game Development, and Mobile Development**
+- 👨‍💻 I’m currently learning **Software Development,Web Development, Game Development, and Mobile Development**
 - 🛠️ I enjoy creating projects and improving my programming skills
 - ✈️ Interested in **Aviation and Technology**
 - 🤝 I’m looking to collaborate on **open-source and innovative projects**
