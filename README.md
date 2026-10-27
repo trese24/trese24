@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Adrian</h1>
+<h1 align="center">Hi, I'm Prince Adrian</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trese24&label=Profile%20Views&color=6e7781&style=for-the-badge" alt="profile views"/>
@@ -32,20 +32,20 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-- 💻 Passionate about **Programming and Technology**
-- 🎮 Learning **Game Development with Godot Engine**
-- 🌐 Exploring **Modern Web Development**
-- 📱 Studying **Mobile Development**
-- ✈️ Interested in **Aviation Systems and Technology**
-- 🤝 Open to **collaborating on software projects**
+-  Passionate about **Programming and Technology**
+-  Learning **Game Development with Godot Engine**
+-  Exploring **Modern Web Development**
+-  Studying **Mobile Development**
+-  Interested in **Aviation Systems and Technology**
+-  Open to **collaborating on software projects**
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
-## 🌐 Web Development
+##  Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -56,7 +56,7 @@
 
 ---
 
-## 💻 Programming Languages
+##  Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-A8B9CC?style=for-the-badge&logo=apple&logoColor=white)
@@ -67,36 +67,36 @@
 
 ---
 
-## ⚙️ Backend & API
+##  Backend & API
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge)
 ![Dropbox API](https://img.shields.io/badge/Dropbox-0061FF?style=for-the-badge&logo=dropbox&logoColor=white)
 
 ---
 
-## 🗄️ Database
+##  Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🛠️ Build Tools & Systems
+##  Build Tools & Systems
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ---
 
-## 📱 Mobile Development
+##  Mobile Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
-## 🎮 Game Development
+##  Game Development
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=trese24&theme=tokyonight&hide_border=true"/>
@@ -108,19 +108,12 @@
 
 ---
 
-# 📈 Top Languages
+# Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trese24&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trese24&bg_color=0d1117&color=6e7781&line=4C9AFF&point=ffffff&area=true&hide_border=true"/>
-</p>
 
 ---
 
