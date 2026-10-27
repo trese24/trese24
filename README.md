@@ -99,11 +99,11 @@
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=trese24&theme=tokyonight&hide_border=true"/>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trese24&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
 </p>
 
 ---
@@ -111,7 +111,8 @@
 # Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trese24&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" width="49%"/>
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" width="49%"/>
 </p>
 
 
